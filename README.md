@@ -10,5 +10,5 @@ Principles used:
 - Encapsulate what varies
 
 Only talk to your friends (DEMETER LAW).
--
+
 Do not call us, we will call you (HOLLYWOORD PRINCIPLE)
